@@ -10,6 +10,9 @@ rundll32.exe powrprof.dll,SetSuspendState
 Hibernate must be set to "off".  
 Run "hibernate_off.cmd" once as an admin.  
 
+Tip: Make a shortcut of "suspend.exe" or a copy in the taskbar.  
+Then enable "Run as an Administrator" in the properties.  
+  
 [More on Windows suspend modes](https://superuser.com/questions/71835/what-is-the-difference-between-these-four-sleep-states)  
 Use CTRL] click to open in a new window.
 
@@ -24,6 +27,6 @@ Copyright (c) 2020 J. v. Roos
 
 
 ##### Viruscheck at Virustotal 
-[Check here](https://www.virustotal.com/gui/url/463697ed46d22501262f19f45c2d67292c2b4f0e006b2095693ca02bb70860df/detection/u-463697ed46d22501262f19f45c2d67292c2b4f0e006b2095693ca02bb70860df-1598098537
+[Check here](https://www.virustotal.com/gui/url/463697ed46d22501262f19f45c2d67292c2b4f0e006b2095693ca02bb70860df/detection/u-463697ed46d22501262f19f45c2d67292c2b4f0e006b2095693ca02bb70860df-1599247191
 )  
 Use [CTRL] + Click to open in a new window! 
