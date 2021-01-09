@@ -52,7 +52,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; *********************************** constants *******************************
 appName := "Sleep"
-appVersion := "0.015"
+appVersion := "0.016"
 app := appName . " " . appVersion
 
 
