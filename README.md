@@ -13,9 +13,9 @@ Run "hibernate_off.cmd" once as an admin.
 Tip: Make a shortcut of "suspend.exe" or a copy in the taskbar.  
 Then enable "Run as an Administrator" in the properties.  
   
-*suspend.exe* is 64 bit  
+**suspend.exe** is 64 bit  
   
-*suspend32.exe* is 64 bit  
+**suspend32.exe** is 64 bit  
   
 [More on Windows suspend modes](https://superuser.com/questions/71835/what-is-the-difference-between-these-four-sleep-states)  
 Use CTRL] click to open in a new window.
